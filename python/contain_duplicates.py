@@ -1,4 +1,4 @@
-def contains_duplicate(nums: List[int]):
+def contains_duplicate(nums: List[int]) -> bool:
     """
     :rtype: bool
     """

@@ -1,7 +1,6 @@
 def max_subarray(nums: List[int]) -> int:
     """
     Find a subarray that provides the largest sum
-    :rtype: int
     """
     if len(nums) == 1:
         return nums[0]

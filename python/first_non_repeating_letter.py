@@ -1,4 +1,4 @@
-def first_non_repeating_letter(string):
+def first_non_repeating_letter(string:str) -> str:
     if len(string) == 0:
         return string
     char_set = set()

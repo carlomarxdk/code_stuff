@@ -1,4 +1,4 @@
-def maxArea(self, height: List[int]):
+def maxArea(self, height: List[int]) -> int:
     """
     :rtype: int
     """

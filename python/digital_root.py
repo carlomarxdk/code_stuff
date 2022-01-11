@@ -1,4 +1,4 @@
-def digital_root(n):
+def digital_root(n:int) -> int:
     res = 0
     while n > 0 or res > 9 : 
         if n == 0: 

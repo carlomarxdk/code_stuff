@@ -1,4 +1,4 @@
-def reverse(x: int):
+def reverse(x: int) -> int:
     if x == 0:
         return 0
         
