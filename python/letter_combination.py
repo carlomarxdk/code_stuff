@@ -1,5 +1,4 @@
 import itertools
-
 def letterCombinations(digits: str):
     """
     :rtype: List[str]
